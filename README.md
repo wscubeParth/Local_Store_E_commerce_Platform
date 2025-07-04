@@ -24,14 +24,3 @@ Tailwind CSS
 Font Awesome
 
 Vanilla JavaScript
-
-⚠️ Note
-This project is a demo prototype — it uses in-browser logic only.
-No real database or backend integration is included — all user and cart states are handled in-memory for demonstration purposes only.
-
-🚀 How to Use
-Clone or download the repo.
-
-Open project.html in your browser.
-
-Browse products, simulate adding to cart, checkout, and test the modals.
